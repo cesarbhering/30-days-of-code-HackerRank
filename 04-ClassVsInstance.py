@@ -14,5 +14,3 @@ class Person:
             print("You are old.")
     def yearPasses(self):
         self.age += 1
-
-t = int(input())
