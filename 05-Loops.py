@@ -3,4 +3,4 @@ if __name__ == '__main__':
     y = 1
     while y <= 10:
         print(f'{n} x {y} = {n*y}')
-        y +=1
+        y += 1
