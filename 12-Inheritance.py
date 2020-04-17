@@ -16,3 +16,4 @@ class Student(Person):
             return('D')
         else:
             return('T')
+            
