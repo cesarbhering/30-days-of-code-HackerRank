@@ -7,4 +7,4 @@ def insert(self, head, data):
         self.tail.next = node
         self.tail = node
     return head
-#TIVE QUE CONSULTA UMA SOLUÇÃO NO FORUM
+#TIVE QUE CONSULTAR UMA SOLUÇÃO NO FORUM
